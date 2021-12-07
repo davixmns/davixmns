@@ -1,4 +1,4 @@
-## Prazer, Davi 👋
+## Prazer, Davi 🙂
 - 💻 Estudante de Ciência da Computação
 - 🤖 Aprendendo novas frameworks
 - 📚 Leitor de mangás 
