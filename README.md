@@ -1,10 +1,9 @@
 ## Prazer, Davi 🙂
-- 💻 Estudante de Ciência da Computação
-- UML, POO, Estrutura de dados, Tipos genéricos, Programação Funcional, Expressões Lambda, Spring Boot, JPA e Hibernate.
+- 💻 Estudante de Ciência da Computação e Desenvolvedor Java
+- UML, POO, Estrutura de dados, Tipos genéricos, Programação Funcional, Expressões Lambda, Spring Boot, JDBC, JPA e Hibernate.
 - Padrões SOLID, GRASP, GOF
 - Clean Code
 - Banco de dados MySQL e MongoDB
-- Git e Github
 - Análise de complexidade de algoritmos
 
 <div style="display: inline_block">
