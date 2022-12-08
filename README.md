@@ -1,7 +1,7 @@
 ## Prazer, Davi 🙂
 - 💻 Estudante de Ciência da Computação
-- 🤖 Aprendendo novas frameworks
-- 📚 Leitor de mangás 
+- 🤖 Desenvolvedor Java
+- 📚 Leitor de mang 
 - 🧠 Curioso
 
 <div style="display: inline_block">
