@@ -1,5 +1,5 @@
 ## Prazer, Davi 🙂
-- 💻 Estudante de Ciência da Computação e Desenvolvedor Java
+- 💻 Estudante de Ciência da Computação e Desenvolvedor de Software
 - UML, POO, Estrutura de dados, Tipos genéricos, Programação Funcional, Expressões Lambda, Spring Boot, JDBC, JPA e Hibernate.
 - Padrões SOLID, GRASP, GOF
 - Clean Code
@@ -14,7 +14,11 @@
   <img align="center" alt="git" height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg"> 
   <img align="center" alt="mysql" height="70" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="spring" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"> 
-  <img align="center" alt="mongodb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg"> 
+  <img align="center" alt="mongodb" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react.svg">
+  <img align="center" alt="react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node.svg">
+
+
 
           
   
