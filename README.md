@@ -5,10 +5,6 @@
 - React e React Native
 - Padrões SOLID, GRASP, GOF e Clean Code.
 - MySQL com Sequelize e MongoDB
-- Git, GitHub e GitLab.
-- Postman e Insomnia
-- Análise de complexidade de algoritmos.
-- SCRUM
 
 <div style="display: inline_block">
   <img align="right" alt="" src="">
