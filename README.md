@@ -1,10 +1,14 @@
 ## Prazer, Davi 🙂
 - 💻 Estudante de Ciência da Computação e Desenvolvedor de Software
-- UML, POO, Estrutura de dados, Tipos genéricos, Programação Funcional, Expressões Lambda, Spring Boot, JDBC, JPA e Hibernate.
-- Padrões SOLID, GRASP, GOF
-- Clean Code
-- Banco de dados MySQL e MongoDB
-- Análise de complexidade de algoritmos
+- Linguagem Javascript, Java
+- Node.js, Spring Boot
+- React e React Native
+- Padrões SOLID, GRASP, GOF e Clean Code.
+- MySQL com Sequelize e MongoDB
+- Git, GitHub e GitLab.
+- Postman e Insomnia
+- Análise de complexidade de algoritmos.
+- SCRUM
 
 <div style="display: inline_block">
   <img align="right" alt="" src="">
