@@ -16,18 +16,11 @@
 </a>
 </div>
 
-<!--Social Links Badges: end-->
-
-<!--About me: start-->
-<!-- <img src="img/hi_there.png"> -->
-
-<div style="margin-top: 2rem">
-<p style='font-size: 3rem; font-weight: lighter; font-family: roboto'>Hello World! 🌎</h1>
+<div style="margin-top:'2rem'">
+<p style='font-size: '3rem'; font-weight: lighter; font-family: roboto'>Hello World! 🌎</h1>
 
 <p style='font-weight: bold'>My name is Davi Ximenes. A brazilian computer scientist and software developer, here you will find my bests codes</p>
 </div>
-
-<!--Tech stack: start-->
 
 <div style="margin-top: 2rem">
 <p style='font-size: 3rem; font-weight: lighter; font-family: roboto'>Tech Stack 📚 <p>
@@ -36,12 +29,9 @@
 
 </div>
 
-<!--Tech stack: end-->
-
-<!--Statistics: start-->
 
 <div style="margin-top:2rem">
-<h1 style='font-size: 3rem; font-weight: lighter; font-family: roboto'>Statistics 🤓<h1>
+<p style='font-size: 3rem; font-weight: lighter; font-family: roboto'>Statistics 🤓<p>
 
 <img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=mralpha786&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286">
 
