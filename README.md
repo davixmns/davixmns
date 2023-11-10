@@ -19,10 +19,11 @@
 
 # Statistics 🤓
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mralpha786&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davixmns&show_icons=true&theme=ambient_gradient)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mralpha786&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286)
 
----
+<div align="center">
 
-<p align="center" style='font-size: 2rem; font-weight: lighter; font-family: roboto'>With ❤️ from 🇧🇷</p>
+# With ❤️ from 🇧🇷
+
+</div>
