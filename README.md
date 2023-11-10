@@ -52,7 +52,7 @@
 
 <!--More Details: start-->
 
-<img src="img/more_things.png">
+<img src="banner.jpg">
 </div>
 
 ### Currently I'm reading
