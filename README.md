@@ -10,16 +10,15 @@
   
 </div>
 
-# <font color="white">Hello World! 🌎</font>
-
+# Hello World! 🌎
 
 **My name is Davi Ximenes. I am a Brazilian computer scientist and software developer. Here you will find my best codes.**
 
-# <font color="white">Tech Stack 📚</font>
+# Tech Stack 📚
 
 ![Tech Stack](https://skillicons.dev/icons?i=cpp,java,python,nodejs,javascript,html,css,tailwind,react,next,vite,sequelize,prisma,mysql,postgres,mongo,docker,bash,git,github,gitlab,vscode,postman,linux,arduino,figma,ps&perline=10)
 
-# <font color="white">Statistics 🤓<font>
+# Statistics 🤓
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davixmns&show_icons=true&theme=ambient_gradient)
 
