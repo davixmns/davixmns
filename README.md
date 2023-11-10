@@ -15,7 +15,7 @@
 
 # Tech Stack 📚
 
-![Tech Stack](https://skillicons.dev/icons?i=cpp,java,python,nodejs,javascript,html,css,tailwind,react,next,vite,sequelize,prisma,mysql,postgres,mongo,docker,bash,git,github,gitlab,vscode,postman,linux,arduino,figma,ps&perline=10)
+![Tech Stack](https://skillicons.dev/icons?i=cpp,java,python,nodejs,javascript,html,css,tailwind,react,next,vite,sequelize,prisma,mysql,postgres,mongo,docker,bash,git,github,gitlab,vscode,postman,linux,arduino,figma,ps&perline=20)
 
 # Statistics 🤓
 
