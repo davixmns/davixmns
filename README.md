@@ -1,13 +1,13 @@
 ![Banner](img/banner.jpg)
 
-<div align="center">
-<div align="center">
+<div style="margin-bottom: 1rem"> 
+  
+  [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/davixmns/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/davi-ximenes-93314a20b/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:davixmnsl@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/davixmns)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/davixmns)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davi-ximenes-93314a20b)
-[![Lichess](https://img.shields.io/badge/Lichess-000000.svg?style=for-the-badge&logo=Lichess&logoColor=white)](https://lichess.org/@/anon007)
-[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/159447401-muhammad-faizan)
-
+  
 </div>
 
 # Hello World! 🌎
@@ -26,6 +26,5 @@
 
 # With ❤️ from 🇧🇷
 
-</div>
 
 </div>
