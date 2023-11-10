@@ -1,67 +1,26 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Meu README</title>
-  <link rel="stylesheet" href="style.css">
-</head>
-<body>
+# Davi Ximenes
 
-<div align="center">
-<img src="img/banner.jpg">
+![Banner](img/banner.jpg)
 
-<div style='margin-top: 1rem'>
-<a href="https://github.com/davixmns">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white">
-</a>
-<a href="https://linkedin.com/in/davi-ximenes-93314a20b">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white">
-</a>
-<a href="https://lichess.org/@/anon007">
-  <img src="https://img.shields.io/badge/Lichess-000000.svg?style=for-the-badge&logo=Lichess&logoColor=white">
-</a>
-<a href="https://www.goodreads.com/user/show/159447401-muhammad-faizan">
-  <img src="https://img.shields.io/badge/Goodreads-F3F1EA.svg?style=for-the-badge&logo=goodreads&logoColor=372213">
-</a>
-</div>
+[![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/davixmns)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/davi-ximenes-93314a20b)
+[![Lichess](https://img.shields.io/badge/Lichess-000000.svg?style=for-the-badge&logo=Lichess&logoColor=white)](https://lichess.org/@/anon007)
+[![Goodreads](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)](https://www.goodreads.com/user/show/159447401-muhammad-faizan)
 
-<div style="margin-top:'2rem'">
-<p style='font-size: 3rem; font-weight: lighter; font-family: roboto'>Hello World! 🌎</p>
-<p style='font-weight: bold'>My name is Davi Ximenes. A brazilian computer scientist and software developer, here you will find my bests codes</p>
-</div>
+# Hello World! 🌎
 
-<div style="margin-top: 2rem">
-<p style='font-size: 3rem; font-weight: lighter; font-family: roboto'>Tech Stack 📚 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,nodejs,javascript,html,css,tailwind,react,next,vite,sequelize,prisma,mysql,postgres,mongo,docker,bash,git,github,gitlab,vscode,postman,linux,arduino,figma,ps&perline=10"/>
-</div>
+**My name is Davi Ximenes.** I am a Brazilian computer scientist and software developer. Here you will find my best codes.
 
-<div style="margin-top:2rem">
-<p style='font-size: 3rem; font-weight: lighter; font-family: roboto'>Statistics 🤓<p>
-<img alt="Faizan's GitHub stats" width="406" src="https://github-readme-stats.vercel.app/api?username=mralpha786&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286">
-<img alt="Top Langs" width="350" src="https://github-readme-stats.vercel.app/api?username=mralpha786&layout=compact&bg_color=00000000&text_color=667799&title_color=388286">
-</div>
+# Tech Stack 📚
 
-<img src="img/with_love.png">
-</div>
+![Tech Stack](https://skillicons.dev/icons?i=cpp,java,python,nodejs,javascript,html,css,tailwind,react,next,vite,sequelize,prisma,mysql,postgres,mongo,docker,bash,git,github,gitlab,vscode,postman,linux,arduino,figma,ps&perline=10)
 
-<style>
-  body {
-    font-family: sans-serif;
-  }
+## Statistics 🤓
 
-  p {
-    margin-bottom: 1rem;
-  }
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mralpha786&custom_title=Github+Stats&bg_color=00000000&hide_border=true&show_icons=true&text_color=667799&title_color=388286&icon_color=388286)
 
-  img {
-    max-width: 100%;
-  }
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mralpha786&layout=compact&hide_border=true&bg_color=00000000&text_color=667799&custom_title=Top+Languages&title_color=388286)
 
-  .center {
-    text-align: center;
-  }
-</style>
+---
 
-</body>
-</html>
+<p align="center" style='font-size: 1.5rem; font-weight: lighter; font-family: roboto'>With ❤️ from 🇧🇷</p>
