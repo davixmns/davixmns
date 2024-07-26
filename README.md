@@ -10,7 +10,7 @@
 
 # Hello World! 🌎
 
-**My name is Davi Ximenes. I am a Brazilian computer scientist and software developer. Here you will find my best codes.**
+**My name is Davi Ximenes.<br/> I am a Brazilian computer scientist and software developer.<br/> Here you will find my best codes.**
 
 # Tech Stack 📚
 
