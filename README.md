@@ -14,7 +14,7 @@
 
 # Tech Stack 📚
 
-![Tech Stack](https://skillicons.dev/icons?i=aws,cs,dotnet,nodejs,js,ts,graphql,kafka,jenkins,react,next,vite,tailwind,sequelize,prisma,mysql,postgres,mongo,docker,bash,git,github,gitlab,vscode,postman,linux&perline=10)
+![Tech Stack](https://skillicons.dev/icons?i=aws,cs,dotnet,nodejs,js,ts,graphql,kafka,react,next,vite,tailwind,sequelize,prisma,mysql,postgres,mongo,docker,bash,git,github,gitlab,vscode,postman,linux&perline=10)
 
 # Statistics 🤓
 
